@@ -25,7 +25,7 @@ Description: The mount is a square 120mm X120mm and is 8m thick.   It has 5 hole
 
 Link:https://cvilleschools.onshape.com/documents/26def114af84fab3cc3baa5e/w/21a7c9155e3fb31c674d9338/e/e0fde112374c16976ad0dc27
 
-Picture
+Picture<img src="images/Screenshot 2020-11-01 at 1.24.59 PM.png"alt="Screenshot 2020-11-01 at 1.24.59 PM.png"wdth="100"height="100"
 
 Lessons learned: 
 
@@ -38,9 +38,10 @@ Description:
 
 Linkhttps://cvilleschools.onshape.com/documents/26def114af84fab3cc3baa5e/w/21a7c9155e3fb31c674d9338/e/f60d050f7f6e2400bc73720e
 
-Picture:
+Picture: <img src="images/Screenshot 2020-11-05 at 10.01.34 PM
 
 Lessons Learned:
+I learned that filet will round edges.
 
 Productivity: I am doing alot of work on my engineering this week
 
@@ -50,7 +51,7 @@ Description
 
 Link:https://cvilleschools.onshape.com/documents/26def114af84fab3cc3baa5e/w/21a7c9155e3fb31c674d9338/e/de1f01e271b619a40102d1c8
 
-Pictures:
+Pictures:<img src="images/Screenshot 2020-11-01 at 1.24.59 PM.png"alt="Screenshot 2020-11-01 at 1.24.59 PM.png"wdth="100"height="100"
 
 Lessons Learned:
 
@@ -63,7 +64,7 @@ Description:
 
 LinK:https://cvilleschools.onshape.com/documents/26def114af84fab3cc3baa5e/w/21a7c9155e3fb31c674d9338/e/f1a7ae968ee68457438466c6
 
-Picture:
+Picture:<img src="images/Screenshot 2020-11-01 at 1.24.59 PM.png"alt="Screenshot 2020-11-01 at 1.24.59 PM.png"wdth="100"height="100"
 
 Lessons Learned:
 
@@ -77,10 +78,10 @@ Descriptions:
 
 Link:https://cvilleschools.onshape.com/documents/26def114af84fab3cc3baa5e/w/21a7c9155e3fb31c674d9338/e/53e6b96f0ea795415988c2b6
 
-Picture:
+Picture:<img src="images/Screenshot 2020-11-01 at 1.24.59 PM.png"alt="Screenshot 2020-11-01 at 1.24.59 PM.png"wdth="100"height="100"
 
 Lessons learned
-
+    I learned that to extrude in both directions, you have to push the symmetrical button
 Productivity: I am doing alot of work on my engineering this week
 
 
