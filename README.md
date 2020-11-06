@@ -9,6 +9,8 @@ Link:https://cvilleschools.onshape.com/documents/26def114af84fab3cc3baa5e/w/21a7
 
 Picture: 
 https://raw.githubusercontent.com/OneCHSEngr/BasicCAD/master/images/Base.jpg
+![Screenshot 2020-11-05 at 10 18 48 PM](https://user-images.githubusercontent.com/73791314/98322211-e7e43880-1fb4-11eb-92c7-939613c9bd6c.png)
+
 
 
 
@@ -25,8 +27,9 @@ Description: The mount is a square 120mm X120mm and is 8m thick.   It has 5 hole
 
 Link:https://cvilleschools.onshape.com/documents/26def114af84fab3cc3baa5e/w/21a7c9155e3fb31c674d9338/e/e0fde112374c16976ad0dc27
 
-Picture
-<img src="images/Screenshot 2020-11-01 at 1.24.59 PM.png"alt="Screenshot 2020-11-01 at 1.24.59 PM.png"wdth="100"height="100"
+Picture:
+
+![Screenshot 2020-11-05 at 10 20 43 PM](https://user-images.githubusercontent.com/73791314/98322340-2c6fd400-1fb5-11eb-8079-819affa6676b.png)
 
 Lessons learned: 
 
@@ -40,7 +43,6 @@ Description:
 Linkhttps://cvilleschools.onshape.com/documents/26def114af84fab3cc3baa5e/w/21a7c9155e3fb31c674d9338/e/f60d050f7f6e2400bc73720e
 
 Picture: 
-<img src="images/Screenshot 2020-11-05 at 10.01.34 PM.png"alt=images/Screenshot 2020-11-05 at 10.01.34 PM.png"
 ![Screenshot 2020-11-05 at 10 15 33 PM](https://user-images.githubusercontent.com/73791314/98322024-77d5b280-1fb4-11eb-9766-29f658121a43.png)
 
 
@@ -55,7 +57,8 @@ Description
 
 Link:https://cvilleschools.onshape.com/documents/26def114af84fab3cc3baa5e/w/21a7c9155e3fb31c674d9338/e/de1f01e271b619a40102d1c8
 
-Pictures:<img src="images/Screenshot 2020-11-01 at 1.24.59 PM.png"alt="Screenshot 2020-11-01 at 1.24.59 PM.png"wdth="100"height="100"
+Pictures:
+![Screenshot 2020-11-05 at 10 21 48 PM](https://user-images.githubusercontent.com/73791314/98322430-617c2680-1fb5-11eb-8ae6-d0954ebbc117.png)
 
 Lessons Learned:
 
@@ -68,7 +71,10 @@ Description:
 
 LinK:https://cvilleschools.onshape.com/documents/26def114af84fab3cc3baa5e/w/21a7c9155e3fb31c674d9338/e/f1a7ae968ee68457438466c6
 
-Picture:<img src="images/Screenshot 2020-11-01 at 1.24.59 PM.png"alt="Screenshot 2020-11-01 at 1.24.59 PM.png"wdth="100"height="100"
+Picture:
+![Screenshot 2020-11-05 at 10 23 29 PM](https://user-images.githubusercontent.com/73791314/98322507-8ec8d480-1fb5-11eb-8ade-fb09460151f6.png)
+
+
 
 Lessons Learned:
 
@@ -82,7 +88,7 @@ Descriptions:
 
 Link:https://cvilleschools.onshape.com/documents/26def114af84fab3cc3baa5e/w/21a7c9155e3fb31c674d9338/e/53e6b96f0ea795415988c2b6
 
-Picture:<img src="images/Screenshot 2020-11-01 at 1.24.59 PM.png"alt="Screenshot 2020-11-01 at 1.24.59 PM.png"wdth="100"height="100"
+Picture:![Screenshot 2020-11-05 at 10 24 30 PM](https://user-images.githubusercontent.com/73791314/98322559-b3bd4780-1fb5-11eb-8592-bf0f0aeecfbe.png)
 
 Lessons learned
     I learned that to extrude in both directions, you have to push the symmetrical button
