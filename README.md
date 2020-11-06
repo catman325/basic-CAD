@@ -39,7 +39,8 @@ Description:
 
 Linkhttps://cvilleschools.onshape.com/documents/26def114af84fab3cc3baa5e/w/21a7c9155e3fb31c674d9338/e/f60d050f7f6e2400bc73720e
 
-Picture: <img src="images/Screenshot 2020-11-05 at 10.01.34 PMpng"alt=images/Screenshot 2020-11-05 at 10.01.34 PM.png"
+Picture: 
+<img src="images/Screenshot 2020-11-05 at 10.01.34 PM.png"alt=images/Screenshot 2020-11-05 at 10.01.34 PM.png"
 
 Lessons Learned:
 I learned that filet will round edges.
