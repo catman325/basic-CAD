@@ -86,9 +86,9 @@ AXLE COLLAR BEARINGS:
 
 Descriptions:
 
-Link:https://cvilleschools.onshape.com/documents/26def114af84fab3cc3baa5e/w/21a7c9155e3fb31c674d9338/e/53e6b96f0ea795415988c2b6
+https://cvilleschools.onshape.com/documents/26def114af84fab3cc3baa5e/w/21a7c9155e3fb31c674d9338/e/53e6b96f0ea795415988c2b6
 
-Picture:![Screenshot 2020-11-05 at 10 24 30 PM](https://user-images.githubusercontent.com/73791314/98322559-b3bd4780-1fb5-11eb-8592-bf0f0aeecfbe.png)
+Picture:![Screenshot 2020-11-06 at 12.13.32 AM](https://user-images.githubusercontent.com/73791314/98322559-b3bd4780-1fb5-11eb-8592-bf0f0aeecfbe.png)
 
 Lessons learned
     I learned that to extrude in both directions, you have to push the symmetrical button
@@ -108,7 +108,7 @@ Lessons learned:
 
 Productivity::
 
-
+Screenshot 2020-11-06 at 12.13.32 AM
 
 
 
