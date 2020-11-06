@@ -25,7 +25,8 @@ Description: The mount is a square 120mm X120mm and is 8m thick.   It has 5 hole
 
 Link:https://cvilleschools.onshape.com/documents/26def114af84fab3cc3baa5e/w/21a7c9155e3fb31c674d9338/e/e0fde112374c16976ad0dc27
 
-Picture<img src="images/Screenshot 2020-11-01 at 1.24.59 PM.png"alt="Screenshot 2020-11-01 at 1.24.59 PM.png"wdth="100"height="100"
+Picture
+<img src="images/Screenshot 2020-11-01 at 1.24.59 PM.png"alt="Screenshot 2020-11-01 at 1.24.59 PM.png"wdth="100"height="100"
 
 Lessons learned: 
 
